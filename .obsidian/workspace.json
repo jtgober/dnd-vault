@@ -15,9 +15,9 @@
               "state": {
                 "file": "Templates/Initiative Template.canvas",
                 "viewState": {
-                  "x": 252.8803967782573,
-                  "y": -90.19661730803936,
-                  "zoom": -1.1086384081912848
+                  "x": 142.39499999999975,
+                  "y": 27.263437499999995,
+                  "zoom": -0.6032673912109491
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -184,9 +184,9 @@
   },
   "active": "82b59c12591df1c3",
   "lastOpenFiles": [
-    "Player Characters/Brenxaris.md",
     "Player Characters/Adeline.md",
     "Templates/Initiative Template.canvas",
+    "Player Characters/Brenxaris.md",
     "Player Characters/Tori.md",
     "Player Characters/Solstice.md",
     "Player Characters/Hobi.md",
