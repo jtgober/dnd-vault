@@ -15,9 +15,9 @@
               "state": {
                 "file": "Templates/Initiative Template.canvas",
                 "viewState": {
-                  "x": 142.39499999999975,
-                  "y": 27.263437499999995,
-                  "zoom": -0.6032673912109491
+                  "x": 706.424435609877,
+                  "y": -332.80873542223674,
+                  "zoom": -0.8446967289318622
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -169,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 489.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,16 +185,28 @@
   },
   "active": "82b59c12591df1c3",
   "lastOpenFiles": [
-    "Player Characters/Adeline.md",
+    "Story/Act 1/Act 1 Story so far.md",
     "Templates/Initiative Template.canvas",
-    "Player Characters/Brenxaris.md",
+    "Story/Act 1",
+    "Story",
+    "Welcome.md",
     "Player Characters/Tori.md",
     "Player Characters/Solstice.md",
     "Player Characters/Hobi.md",
     "Player Characters/Gelmir.md",
     "Player Characters/Dolemite.md",
-    "Player Characters/Untitled",
-    "Welcome.md",
+    "Player Characters/Brenxaris.md",
+    "Player Characters/Adeline.md",
+    "Player Characters/imgs/Gelmir Stats 2.png",
+    "Player Characters/imgs/Gelmir Stats 1.png",
+    "Player Characters/imgs/Hobi Stats 2.png",
+    "Player Characters/imgs/Hobi Stats 1.png",
+    "Player Characters/imgs/Solstice stats 2.png",
+    "Player Characters/imgs/Solstice stats 1.png",
+    "Player Characters/imgs/Tori stats 2.png",
+    "Player Characters/imgs/Untitled",
+    "Player Characters/imgs",
+    "Player Characters/imgs/Todi Stats 1.png",
     "Templates",
     "Player Characters"
   ]
