@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "6fd3b43b96f0a0b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5e0817784133c46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82b59c12591df1c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Templates/Initiative Template.canvas",
+                "viewState": {
+                  "x": 252.8803967782573,
+                  "y": -90.19661730803936,
+                  "zoom": -1.1086384081912848
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Initiative Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39d6139b9697dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ad240572a3401c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96e2a14086e3bf4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5127eb2ff869d420",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec023bf714983b63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b77dd54a04ae65cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5c61a98f1fb4fd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a62dedbfe53f0bcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "900ee7eecbac94b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "fe05b51c2501e05f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d54cadcc1a2e897",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "65ac182499598c04",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "82b59c12591df1c3",
+  "lastOpenFiles": [
+    "Player Characters/Brenxaris.md",
+    "Player Characters/Adeline.md",
+    "Templates/Initiative Template.canvas",
+    "Player Characters/Tori.md",
+    "Player Characters/Solstice.md",
+    "Player Characters/Hobi.md",
+    "Player Characters/Gelmir.md",
+    "Player Characters/Dolemite.md",
+    "Player Characters/Untitled",
+    "Welcome.md",
+    "Templates",
+    "Player Characters"
+  ]
+}
