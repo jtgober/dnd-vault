@@ -1,3 +1,7 @@
 .canvas-node-content:not(.is-loaded) {
 text-align: center;
 }
+/* Change the color of reference tags */
+.markdown-preview-view .internal-link {
+    color: azure; /* Change this to your desired color */
+}

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e5e0817784133c46",
+        "id": "9dbf60c713199ea0",
         "type": "tabs",
         "children": [
           {
-            "id": "82b59c12591df1c3",
+            "id": "1af0c6a17b35e841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goofy Ideas/Dungeon Master Man.md",
+                "file": "Player Characters/Tori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon Master Man"
+              "title": "Tori"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,29 +180,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82b59c12591df1c3",
+  "active": "1af0c6a17b35e841",
   "lastOpenFiles": [
-    "Player Characters/Brenxaris.md",
-    "Goofy Ideas/Dungeon Master Man.md",
-    "Goofy Ideas/Magic Items.md",
-    "Story/Act 2/The Seven/The Seven.md",
-    "Goofy Ideas",
-    "Story/Act 2/Boating Incident.md",
-    "Story/Act 2/The Seven/Untitled",
-    "Story/Act 2/The Seven",
-    "Encounters",
-    "Story/Act 1/Act 1 Story so far.md",
-    "Templates/Initiative Template.canvas",
-    "Story/Act 2",
-    "Story/Act 1",
-    "Story",
-    "Welcome.md",
-    "Player Characters/Tori.md",
     "Player Characters/Solstice.md",
     "Player Characters/Hobi.md",
     "Player Characters/Gelmir.md",
     "Player Characters/Dolemite.md",
+    "Player Characters/Brenxaris.md",
     "Player Characters/Adeline.md",
+    "Templates/Initiative Template.canvas",
+    "Player Characters/Tori.md",
+    "Story/Act 2/Boating Incident.md",
+    "Goofy Ideas/Dungeon Master Man.md",
+    "Goofy Ideas/Magic Items.md",
+    "Story/Act 2/The Seven/The Seven.md",
+    "Templates/Initiative.canvas",
+    "Templates/test.md",
+    "Goofy Ideas",
+    "Story/Act 2/The Seven/Untitled",
+    "Story/Act 2/The Seven",
+    "Encounters",
+    "Story/Act 1/Act 1 Story so far.md",
+    "Story/Act 2",
+    "Story/Act 1",
+    "Story",
+    "Welcome.md",
     "Player Characters/imgs/Gelmir Stats 2.png",
     "Player Characters/imgs/Gelmir Stats 1.png",
     "Player Characters/imgs/Hobi Stats 2.png",

@@ -3,13 +3,12 @@
 # Player - Bryan Beach
 ### Quick Statistics 
 #### Level 7 Sorcerer 
-##### Hit Points: 44
-##### AC: 12 
-
+ Hit Points: 44
+ AC: 12 
 #### Saves
-STR: 0
-DEX: 2
-CON: 6
-INT: 1
-WIS: 2
-CHA: 8
+STR: +0
+DEX: +2
+CON: +6
+INT: +1
+WIS: +2
+CHA: +8

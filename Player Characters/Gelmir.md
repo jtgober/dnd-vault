@@ -3,13 +3,12 @@
 # Player - David Williamson
 ### Quick Statistics 
 #### Level 7 Paladin / Warlock
-##### Hit Points: 59
-##### AC: 18 
-
+ Hit Points: 59
+ AC: 18 
 #### Saves
-STR: 7
-DEX: 4 
-CON: 7
-INT: 4
-WIS: 8
-CHA: 13
+STR: +7
+DEX: +4 
+CON: +7
+INT: +4
+WIS: +8
+CHA: +13
