@@ -11,17 +11,14 @@
             "id": "82b59c12591df1c3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Templates/Initiative Template.canvas",
-                "viewState": {
-                  "x": 706.424435609877,
-                  "y": -332.80873542223674,
-                  "zoom": -0.8446967289318622
-                }
+                "file": "Story/Act 2/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Initiative Template"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -186,7 +183,9 @@
   "active": "82b59c12591df1c3",
   "lastOpenFiles": [
     "Story/Act 1/Act 1 Story so far.md",
+    "Story/Act 2/Untitled.md",
     "Templates/Initiative Template.canvas",
+    "Story/Act 2",
     "Story/Act 1",
     "Story",
     "Welcome.md",
