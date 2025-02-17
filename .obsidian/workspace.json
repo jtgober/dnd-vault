@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Act 2/Untitled.md",
+                "file": "Story/Act 2/Boating Incident.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Boating Incident"
             }
           }
         ]
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82b59c12591df1c3",
+  "active": "96e2a14086e3bf4b",
   "lastOpenFiles": [
+    "Encounters",
     "Story/Act 1/Act 1 Story so far.md",
-    "Story/Act 2/Untitled.md",
+    "Story/Act 2/Boating Incident.md",
     "Templates/Initiative Template.canvas",
     "Story/Act 2",
     "Story/Act 1",
