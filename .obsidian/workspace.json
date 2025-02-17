@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Act 2/Boating Incident.md",
+                "file": "Goofy Ideas/Dungeon Master Man.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boating Incident"
+              "title": "Dungeon Master Man"
             }
           }
         ]
@@ -180,11 +180,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96e2a14086e3bf4b",
+  "active": "82b59c12591df1c3",
   "lastOpenFiles": [
+    "Player Characters/Brenxaris.md",
+    "Goofy Ideas/Dungeon Master Man.md",
+    "Goofy Ideas/Magic Items.md",
+    "Story/Act 2/The Seven/The Seven.md",
+    "Goofy Ideas",
+    "Story/Act 2/Boating Incident.md",
+    "Story/Act 2/The Seven/Untitled",
+    "Story/Act 2/The Seven",
     "Encounters",
     "Story/Act 1/Act 1 Story so far.md",
-    "Story/Act 2/Boating Incident.md",
     "Templates/Initiative Template.canvas",
     "Story/Act 2",
     "Story/Act 1",
@@ -195,7 +202,6 @@
     "Player Characters/Hobi.md",
     "Player Characters/Gelmir.md",
     "Player Characters/Dolemite.md",
-    "Player Characters/Brenxaris.md",
     "Player Characters/Adeline.md",
     "Player Characters/imgs/Gelmir Stats 2.png",
     "Player Characters/imgs/Gelmir Stats 1.png",
@@ -207,7 +213,6 @@
     "Player Characters/imgs/Untitled",
     "Player Characters/imgs",
     "Player Characters/imgs/Todi Stats 1.png",
-    "Templates",
-    "Player Characters"
+    "Templates"
   ]
 }
