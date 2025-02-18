@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Tori.md",
+                "file": "Player Characters/Adeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tori"
+              "title": "Adeline"
             }
           }
         ]
@@ -182,18 +182,23 @@
   },
   "active": "1af0c6a17b35e841",
   "lastOpenFiles": [
+    "Important Characters/Main Cast Act 2.md",
+    "Important Characters/Main Cast Act 1.md",
+    "Goofy Ideas/Magic Items.md",
+    "Goofy Ideas/Dungeon Master Man.md",
+    "Goofy Ideas/Characters/Weird Character or Monster Ideas.md",
+    "Goofy Ideas/Characters",
+    "Important Characters",
+    "Story/Act 2/Boating Incident.md",
+    "Story/Act 2/The Seven/The Seven.md",
+    "Templates/Initiative Template.canvas",
+    "Player Characters/Tori.md",
     "Player Characters/Solstice.md",
     "Player Characters/Hobi.md",
     "Player Characters/Gelmir.md",
     "Player Characters/Dolemite.md",
     "Player Characters/Brenxaris.md",
     "Player Characters/Adeline.md",
-    "Templates/Initiative Template.canvas",
-    "Player Characters/Tori.md",
-    "Story/Act 2/Boating Incident.md",
-    "Goofy Ideas/Dungeon Master Man.md",
-    "Goofy Ideas/Magic Items.md",
-    "Story/Act 2/The Seven/The Seven.md",
     "Templates/Initiative.canvas",
     "Templates/test.md",
     "Goofy Ideas",
@@ -213,8 +218,6 @@
     "Player Characters/imgs/Solstice stats 1.png",
     "Player Characters/imgs/Tori stats 2.png",
     "Player Characters/imgs/Untitled",
-    "Player Characters/imgs",
-    "Player Characters/imgs/Todi Stats 1.png",
-    "Templates"
+    "Player Characters/imgs/Todi Stats 1.png"
   ]
 }

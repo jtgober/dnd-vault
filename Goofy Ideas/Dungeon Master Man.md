@@ -2,8 +2,6 @@
 
 Dungeon Master Man is a being of pure randomness and chaos. Appearing as a small *Astroboy-esque* looking child, This entity seemingly has the ability to transport the party to completely different universes. Typically *DMM* is a happy go lucky character that only wants adventure, and is *always trying to act cool in front of the party* and always is in character for the specific adventure
 
-
-
 ### First Meeting
 The first meeting with DMM resulted in the party being transported to the Marvel Universe. *Specifically* they entered a blood rave from the first blade movie. 
 
