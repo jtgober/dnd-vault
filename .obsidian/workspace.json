@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Adeline.md",
-                "mode": "source",
+                "file": "Important Characters/Main Cast Act 1.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adeline"
+              "title": "Main Cast Act 1"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "1af0c6a17b35e841",
   "lastOpenFiles": [
-    "Important Characters/Main Cast Act 2.md",
+    "Templates/Initiative Template.canvas",
     "Important Characters/Main Cast Act 1.md",
+    "Player Characters/Gelmir.md",
+    "Player Characters/Adeline.md",
+    "Important Characters/Main Cast Act 2.md",
     "Goofy Ideas/Magic Items.md",
     "Goofy Ideas/Dungeon Master Man.md",
     "Goofy Ideas/Characters/Weird Character or Monster Ideas.md",
@@ -191,14 +194,11 @@
     "Important Characters",
     "Story/Act 2/Boating Incident.md",
     "Story/Act 2/The Seven/The Seven.md",
-    "Templates/Initiative Template.canvas",
     "Player Characters/Tori.md",
     "Player Characters/Solstice.md",
     "Player Characters/Hobi.md",
-    "Player Characters/Gelmir.md",
     "Player Characters/Dolemite.md",
     "Player Characters/Brenxaris.md",
-    "Player Characters/Adeline.md",
     "Templates/Initiative.canvas",
     "Templates/test.md",
     "Goofy Ideas",

@@ -1,7 +1,15 @@
 .canvas-node-content:not(.is-loaded) {
-text-align: center;
+    text-align: center;
 }
+
 /* Change the color of reference tags */
 .markdown-preview-view .internal-link {
+    color:#60d77c;
+    text-decoration: none;
+
+}
+
+.cm-s-obsidian .cm-hmd-internal-link {
     color: azure; /* Change this to your desired color */
 }
+
